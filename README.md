@@ -22,7 +22,7 @@ The dashboard is designed to support targeted intervention rather than broad opt
 
 Vendor performance was evaluated across both **financial contribution** and **operational quality** dimensions. Vendors were segmented using a two-by-two framework based on sales impact and customer satisfaction to ensure fair comparison and actionable insights.
 
-## 🧪 Data Preparation & Vendor Segmentation
+### 🧪 Data Preparation & Vendor Segmentation
 
 - **Gross Merchandise Value (GMV)** was calculated as:  
   **GMV = Product Price × Number of Items Sold**, representing each vendor’s sales contribution.
