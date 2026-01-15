@@ -1,5 +1,5 @@
 <div align="center">
-<h3>Data Pipeline Analysing Brazilian E-commerce, Olist Dataset</h3>
+<h3>Olist Vendor Performance Analytics</h3>
 </div>
 
 <img src="Dashboard/Vendor Performance Dashboard.png" alt="Dashboard">
