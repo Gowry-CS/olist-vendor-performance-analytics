@@ -116,7 +116,7 @@ Notably, a subset of high-GMV vendors shows strong review scores but slower hand
 
 ### 🛠️ Tools & Skills Demonstrated
 
-- SQL: Metric calculation, aggregation, segmentation
+- Spark SQL (via Microsoft Fabric): Metric calculation, aggregation, segmentation
 - Power BI: Explanatory and tactical dashboard design
 - Analytical Thinking: Vendor segmentation, Pareto analysis, skew-aware benchmarking
 - Business Communication: Translating data into leadership-level insights
