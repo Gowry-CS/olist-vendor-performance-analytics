@@ -6,7 +6,7 @@
 
 **Goal**
 
-To architect a secure and governed Medallion Lakehouse structure (Bronze, Silver, Gold layers) using Microsoft Fabric and Power BI over a 3-week capstone project with 3 team members. Managed the ELT process for the Olist dataset to create a clean, governed data asset and a high-impact interactive dashboard for stakeholders.
+This project analyses vendor performance using Brazilian e-commerce data from Olist to identify the best and worst performing vendors and explain *why* they perform the way they do. The dashboard is designed to support leadership-level decision-making by highlighting financially critical vendors and operational risks.
 
 **Project Scope**
 
