@@ -22,6 +22,30 @@ The dashboard is designed to support targeted intervention rather than broad opt
 
 Vendor performance was evaluated across both **financial contribution** and **operational quality** dimensions. Vendors were segmented using a two-by-two framework based on sales impact and customer satisfaction to ensure fair comparison and actionable insights.
 
+## 🧪 Data Preparation & Vendor Segmentation
+
+- **Gross Merchandise Value (GMV)** was calculated as:  
+  **GMV = Product Price × Number of Items Sold**, representing each vendor’s sales contribution.
+  
+- **Operational efficiency** was measured using **Average Days to Handover**, defined as the time between:
+  - `order_purchase_timestamp`
+  - `order_delivered_carrier_date`  
+  The overall vendor average was **3.67 days**.
+
+- To ensure fair vendor comparison, two thresholds were applied:
+  - **Median GMV ($832.41)** as the sales threshold  
+    (chosen over the mean due to extreme sales skew ranging from <$10 to >$230K)
+  - **Overall Average Review Score (3.98)** as the customer satisfaction benchmark
+
+- Vendors were classified into four categories:
+  - **Top Vendors:** High GMV + High Rating
+  - **At-Risk Vendors:** High GMV + Low Rating
+  - **Growth Potential Vendors:** Low GMV + High Rating
+  - **Low Priority Vendors:** Low GMV + Low Rating
+
+This segmentation formed the foundation of the `vendor_category_tbl` used across the dashboard.
+
+
 **Project Scope**
 
 1. Creating a centralized, structured dataset from raw Olist E-commerce data from 2016 to 2018. <br> 
