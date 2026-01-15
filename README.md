@@ -60,3 +60,51 @@ These benchmarks provide the reference point for identifying outliers and priori
 #### KPI Cards – Performance at a Glance
 
 The KPI cards provide immediate context by defining what “good performance” looks like across financial, customer satisfaction, and logistics dimensions.
+
+### Vendor Category Filter – Targeted Risk Monitoring
+
+A Vendor Category filter allows stakeholders to instantly isolate and analyse specific vendor segments:
+- Top Vendors
+- At-Risk Vendors
+- Growth Potential Vendors
+- Low Priority Vendors
+
+The primary tactical use case is monitoring **At-Risk Vendors**, enabling leadership to track stabilisation efforts across financial and operational metrics.
+
+### GMV Concentration by Vendor Category
+
+The clustered bar chart shows a highly concentrated sales distribution:
+- **Top Vendors:** $8.9M
+- **At-Risk Vendors:** $4.4M
+
+Together, these two categories account for approximately **97% of total GMV** ($13.3M of $13.67M).
+
+The At-Risk segment alone contributes **14.6× more GMV** than the combined sales of Growth Potential and Low Priority vendors, making it a critical focus area.
+
+### Top & Bottom Vendors by GMV
+
+Analysis of the **Top 10 vendors by GMV** reveals a critical risk:
+- Three of the top ten vendors are classified as **At-Risk**
+- These vendors contribute over **$582K in GMV** but have lower average review scores (3.36–3.85)
+
+In contrast, the **Bottom 10 vendors**—primarily Growth Potential—have negligible financial impact, with an average GMV of less than **$9**.
+
+This comparison reinforces the strategic need to prioritise stabilising high-value At-Risk vendors rather than focusing on low-impact growth segments.
+
+### Diagnosing Vendor Performance Drivers (Pareto Analysis)
+
+Applying the Pareto Principle, analysis focused on the **542 vendors contributing to 80% of total GMV**.
+
+A scatter plot maps:
+- **X-axis:** Average Review Score
+- **Y-axis:** Average Days to Handover
+- **Bubble size:** Total GMV
+
+Reference lines were set at:
+- Average Review Score = 3.98
+- Average Days to Handover = 3.67
+
+Most high-GMV vendors cluster in the high-rating, timely-delivery quadrant, confirming alignment between customer satisfaction and operational efficiency.
+
+Notably, a subset of high-GMV vendors shows strong review scores but slower handover times. These vendors represent a strategic opportunity: improving logistics efficiency could unlock additional GMV without risking customer churn.
+
