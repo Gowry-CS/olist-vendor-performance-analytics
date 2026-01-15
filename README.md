@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Olist Vendor Performance Analytics</h1>
+<h2>Olist Vendor Performance Analytics</h2>
 </div>
 
 <img src="Dashboard/Vendor Performance Dashboard.png" alt="Dashboard">
