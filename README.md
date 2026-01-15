@@ -4,11 +4,11 @@
 
 <img src="Dashboard/Vendor Performance Dashboard.png" alt="Dashboard">
 
-## 📊 Overview
+### 📊 Overview
 
 This project analyses vendor performance using Brazilian e-commerce data from Olist to identify the best and worst performing vendors and explain *why* they perform the way they do. The dashboard is designed to support leadership-level decision-making by highlighting financially critical vendors and operational risks.
 
-## 🧭 Business Context & Audience
+### 🧭 Business Context & Audience
 
 - **Audience:** Olist Leadership (Executives, VPs)
 - **Business Question:** Who are our best and worst vendors, and what actions should we prioritise to improve performance?
@@ -18,7 +18,7 @@ This project analyses vendor performance using Brazilian e-commerce data from Ol
 
 The dashboard is designed to support targeted intervention rather than broad optimisation, ensuring leadership attention is focused where financial impact is greatest.
 
-## 🔍 Analytical Approach
+### 🔍 Analytical Approach
 
 Vendor performance was evaluated across both **financial contribution** and **operational quality** dimensions. Vendors were segmented using a two-by-two framework based on sales impact and customer satisfaction to ensure fair comparison and actionable insights.
 
