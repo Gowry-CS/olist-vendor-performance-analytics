@@ -45,6 +45,16 @@ Vendor performance was evaluated across both **financial contribution** and **op
 
 This segmentation formed the foundation of the `vendor_category_tbl` used across the dashboard.
 
+### 📌 Key Performance Benchmarks
+
+The dashboard establishes a high-level performance baseline for all vendors:
+
+- **Total GMV:** $13.76M
+- **Average Vendor Review Score:** 3.98
+- **Overall On-Time Delivery Rate:** 85%
+
+These benchmarks provide the reference point for identifying outliers and prioritising intervention.
+
 
 **Project Scope**
 
