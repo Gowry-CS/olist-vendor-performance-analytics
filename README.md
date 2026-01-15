@@ -4,7 +4,7 @@
 
 <img src="Dashboard/Vendor Performance Dashboard.png" alt="Dashboard">
 
-**Goal**
+## 📊 Olist Vendor Performance Analytics
 
 This project analyses vendor performance using Brazilian e-commerce data from Olist to identify the best and worst performing vendors and explain *why* they perform the way they do. The dashboard is designed to support leadership-level decision-making by highlighting financially critical vendors and operational risks.
 
